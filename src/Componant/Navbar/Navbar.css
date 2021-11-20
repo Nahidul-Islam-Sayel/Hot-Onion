@@ -1,0 +1,12 @@
+img{
+    width: 30%;
+    height: 30%;
+    
+}
+img, svg {
+    vertical-align: bottom;
+    margin-left: -300px;
+}
+.xyz{
+    margin-left: 10px;
+}
